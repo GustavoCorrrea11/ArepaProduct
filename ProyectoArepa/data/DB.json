@@ -1,0 +1,15 @@
+{
+    "usuarios":[
+        {
+            "id":1,
+            "FirstName": "Gustavo",
+            "LastName": "Correa",
+            "BirthDate": "15-11-2002",
+            "RegisterDate": "14-11-2022",
+            "Address": "Calle 9 #28 C1 74",
+            "PhoneNumber": "3156647779",
+            "Email": "guscorlop@hotmail.com",
+            "PassWord": "1234"
+        }
+    ]
+}
